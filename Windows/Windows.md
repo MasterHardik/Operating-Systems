@@ -11,6 +11,7 @@
    - [exFAT](#exfat)
 4. [Package Management](#package-management)
 5. [Processes and System Management](#processes-and-system-management)
+   - [Multitasking](#multitasking)
 6. [Networking](#networking)
 7. [Security](#security)
 8. [Useful Commands](#useful-commands)
@@ -76,6 +77,15 @@ Unlike Linux, Windows does not have a traditional package management system. How
 - **Task Manager**: Provides information on running processes, performance, and system resources. Access with `Ctrl + Shift + Esc`.
 - **Resource Monitor**: Offers detailed system performance and resource usage data.
 - **System Configuration**: Use `msconfig` to manage startup programs and system services.
+
+### Multitasking
+
+Windows supports efficient multitasking, allowing users to run and switch between multiple applications and processes simultaneously. Key features include:
+
+- **Taskbar**: Displays open applications and allows users to switch between them.
+- **Alt + Tab**: Keyboard shortcut to quickly switch between running applications.
+- **Snap Assist**: Allows users to easily organize and arrange open windows on the screen.
+- **Virtual Desktops**: Provides the ability to create multiple desktops for different tasks or projects, accessed via `Win + Tab`.
 
 ## Networking
 
